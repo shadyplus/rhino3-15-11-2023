@@ -1,0 +1,54 @@
+/*========================================================================
+00. Gtrans
+=========================================================================*/
+
+#google_translate_element {
+    width: auto !important
+}
+
+.goog-tooltip {
+    display: none !important
+}
+
+.goog-tooltip:hover {
+    display: none !important
+}
+
+.goog-text-highlight {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important
+}
+
+#google_translate_element select.goog-te-combo {
+    color: #32373c
+}
+
+#flags {
+    display: none
+}
+
+#google_translate_element {
+    color: transparent;
+    display: none;
+}
+
+body {
+    top: 0px !important
+}
+
+#glt-translate-trigger > span {
+    color: #fff
+}
+
+#glt-translate-trigger {
+    background: #f89406
+}
+
+.goog-te-gadget .goog-te-combo {
+    width: 100%
+}
+
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+}
